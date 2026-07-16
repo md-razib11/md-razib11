@@ -36,7 +36,7 @@
 ## About Me
 
 ```yaml
-Current Role: Flutter Developer @ Infolook | Dhaka, Bangladesh
+Current Role: Flutter Developer @ Qanun | Dhaka, Bangladesh
 Previous: Flutter Developer (Team Lead) @ Softvence Agency
 Experience: Led teams and delivered 4+ published apps on Play Store & App Store
 Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
